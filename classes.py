@@ -2,7 +2,7 @@
 
 
 class Customer():
-    """ Creates an instance of a customer """
+    """ Creates an instance of Customer """
     def __init__(self, fname, lname, email, phone):
         self.fname = fname
         self.lname = lname
